@@ -1,3 +1,4 @@
+# banker Roulette problem
 import random
 # Split string method
 names_string = input("Give me everybody's names, separated by a comma. ")
